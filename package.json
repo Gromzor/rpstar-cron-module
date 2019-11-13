@@ -1,0 +1,17 @@
+{
+  "name": "rpstar-cron-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@rpstar/sdk": "1.0.0-191113.4"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.6",
+    "typescript": "^3.7.2"
+  }
+}
